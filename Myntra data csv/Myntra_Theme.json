@@ -1,0 +1,30 @@
+{
+  "name": "Myntra Light Pink",
+  "dataColors": [
+    "#FF3E6C",
+    "#FF905A",
+    "#A46CFF",
+    "#FF3EC1",
+    "#5A8BFF",
+    "#2E2E2E"
+  ],
+  "background": "#FFF0F3",
+  "foreground": "#2E2E2E",
+  "tableAccent": "#FF3E6C",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [{ "color": { "solid": { "color": "#FFFFFF" } } }],
+        "border": [{ "show": true, "color": { "solid": { "color": "#FFD0D9" } }, "radius": 14 }],
+        "title": [{ "color": { "solid": { "color": "#2E2E2E" } } }]
+      }
+    },
+    "card": {
+      "*": {
+        "background": [{ "color": { "solid": { "color": "#FFFFFF" } } }],
+        "border": [{ "show": true, "color": { "solid": { "color": "#FF3E6C" } }, "width": 1, "radius": 14 }],
+        "labels": [{ "color": { "solid": { "color": "#FF3E6C" } } }]
+      }
+    }
+  }
+}

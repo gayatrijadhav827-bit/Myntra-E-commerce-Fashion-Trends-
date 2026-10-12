@@ -1,0 +1,15 @@
+{
+  "name": "Myntra Dark Neon",
+  "dataColors": ["#FF3E6C", "#FF8A9B", "#C850C0", "#8B5CF6", "#FF8E53"],
+  "background": "#121212",
+  "foreground": "#FFFFFF",
+  "tableAccent": "#FF3E6C",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [{ "color": { "solid": { "color": "#1E1E1E" } }, "transparency": 0 }],
+        "border": [{ "show": true, "color": { "solid": { "color": "#FF3E6C" } } }]
+      }
+    }
+  }
+}

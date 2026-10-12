@@ -1,0 +1,13 @@
+{
+  "name": "Myntra Neon",
+  "dataColors": [
+    "#FF4FCB",
+    "#D946EF",
+    "#9D4EDD",
+    "#FF99FF",
+    "#F72585"
+  ],
+  "background": "#0A061A",
+  "foreground": "#FFFFFF",
+  "tableAccent": "#FF4FCB"
+}
